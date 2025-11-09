@@ -1,0 +1,1 @@
+This is an exercise of a Linear Regresion course from Google.
